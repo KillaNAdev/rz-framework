@@ -115,7 +115,6 @@ CreateThread(function()
 
                 end
             elseif (inside_zone) then
-                --trase.functions.notify("~y~You have left a greenzone")
                 SetEntityCanBeDamaged(playerPed, true)
                 SetEntityMaxSpeed(GetVehiclePedIsIn(playerPed, false), 99999.9)
                 SetPlayerInvincibleKeepRagdollEnabled(PlayerId(), false)
