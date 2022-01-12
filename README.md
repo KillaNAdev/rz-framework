@@ -9,7 +9,8 @@ A Super Optimized Combat Server Framework.
 ### Looking to add to the project?
 **Fork >>> Make Changes/Add >>> Make PulL Request.**
 
-
+#### Note: 
+*There will be updates looking to add a few things soon and gonna swap out lance good greenzones for polyzones which will be better for the framework. And want to add a few more things.*
 
 
 ```zsh
